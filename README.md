@@ -1,4 +1,4 @@
-# Spring REST API And Spring Security (Authentication and Authorization)
+# Techezy-Assessment
 
 ## Configuration
 
@@ -105,7 +105,7 @@
 
 ```
  {
-  "email": "abijitdarade@gmail.com",
+  "email": "abhijitdarade@gmail.com",
   "password": "pass",
   "role": "STUDENT"
  }
